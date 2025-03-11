@@ -1,0 +1,15 @@
+com\autobase\model\Trip.class
+com\autobase\model\Vehicle.class
+com\autobase\repository\TripRepository.class
+com\autobase\AutobaseApplication.class
+com\autobase\model\CargoRequest.class
+com\autobase\model\Destination.class
+com\autobase\repository\CargoRepository.class
+com\autobase\service\DispatcherService.class
+com\autobase\service\LogService.class
+com\autobase\util\FileUtil.class
+com\autobase\repository\VehicleRepository.class
+com\autobase\model\Driver.class
+com\autobase\repository\DriverRepository.class
+com\autobase\repository\LogRepository.class
+com\autobase\service\TripService.class
